@@ -1,0 +1,3 @@
+# Extool Adapters
+
+These are adapters for the Extool project. Check out this repository, then rename the folder to 'adapters' and add to the root folder of Extool.
